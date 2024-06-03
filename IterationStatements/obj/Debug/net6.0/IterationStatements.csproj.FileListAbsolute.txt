@@ -1,0 +1,15 @@
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\bin\Debug\net6.0\IterationStatements.exe
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\bin\Debug\net6.0\IterationStatements.deps.json
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\bin\Debug\net6.0\IterationStatements.runtimeconfig.json
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\bin\Debug\net6.0\IterationStatements.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\bin\Debug\net6.0\IterationStatements.pdb
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfoInputs.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.AssemblyInfo.cs
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.csproj.CoreCompileInputs.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.sourcelink.json
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\refint\IterationStatements.dll
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.pdb
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\IterationStatements.genruntimeconfig.cache
+C:\Users\ryanw\OneDrive\Desktop\repos\IterationStatementsExercise\IterationStatements\obj\Debug\net6.0\ref\IterationStatements.dll
